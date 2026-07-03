@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, my name is Fiodar Maksimchyk.
 
-<!--
-**fediamax/fediamax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
+I'm from Belarus, but currently living in Białystok, Poland.
 
-Here are some ideas to get you started:
+I'm a Python and C# developer who is interested in improving my knowledge. I also like to solve challenging problems, learn and turn my ideas into reality.
+My interest in programming is connected with my mathematical background, so analitycal thinking and solving problems skill are in my blood.
+Almost every day I'm trying to improve my programming skils by watching videos about programming, solving different problems and working on my mini-projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a student of ZSE(Zespół Szkół Elektrycznych - Electrical Schools Complex).
+
+Currently, I'm focusing on:
+-Python;
+-C#;
+-Java Script;
+-PHP.
+
+Achievements:
+-Multiple-time winner and prize recipient of mathematics olympiads;
+-Started to develop Terraria mod and have some successes in it.
+
+My goals:
+-find an oportunity as a Python or C# developer;
+-improve my skills in developing;
