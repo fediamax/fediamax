@@ -13,7 +13,8 @@ Currently, I'm focusing on:
 -Python;
 -C#;
 -Java Script;
--PHP.
+-PHP;
+-MySQL.
 
 Achievements:
 -Multiple-time winner and prize recipient of mathematics olympiads;
