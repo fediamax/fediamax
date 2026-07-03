@@ -22,3 +22,8 @@ Achievements:
 My goals:
 -find an oportunity as a Python or C# developer;
 -improve my skills in developing;
+
+Contacts:
+-E-mail: fediamax@gmail.com
+-Phone number: +48 512 532 480
+-linkedin: www.linkedin.com/in/fediamax
