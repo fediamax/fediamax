@@ -9,6 +9,12 @@ Almost every day I'm trying to improve my programming skils by watching educatio
 
 I'm a student of ZSE(Zespół Szkół Elektrycznych - Electrical Schools Complex).
 
+Languages that I know:
+-English(B2);
+-Polish(B1);
+-Russian(native);
+-Belarussian(native).
+
 Currently, I'm focusing on:
 -Python;
 -C#;
